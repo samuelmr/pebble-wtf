@@ -1,0 +1,17 @@
+{
+  "uuid": "47f6601a-2446-4261-b01d-b7c1fef053cb",
+  "shortName": "wtf",
+  "longName": "wtf",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
